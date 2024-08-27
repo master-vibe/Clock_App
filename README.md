@@ -6,6 +6,7 @@ New Design of Clock v2
 <img src="https://github.com/user-attachments/assets/21ba7a7c-571a-4471-9eab-a5815e248b23" alt="Home Screen" width="300"/>
 <img src="https://github.com/user-attachments/assets/d2c6cdfa-ab40-4883-87bd-dbe94a2cbd30" alt="Alarm List Page" width="300"/>
 <img src="https://github.com/user-attachments/assets/e11326cf-133b-4fb3-be6b-d7842cd65b74" alt="Alarm Set Page" width="300"/>
+
 ## Overview
 
 The Clock app is a modern and feature-rich Flutter application that allows users to set and manage alarms. With a sleek new design in version 2, it provides an intuitive interface to enhance user experience.
